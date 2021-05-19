@@ -18,7 +18,7 @@ channels:
 - symbiflow
 - defaults
 dependencies:
-- python=3.8
+- python=3.1
 - pip
 # Packages installed from PyPI
 - pip:
